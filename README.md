@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me: nicolasbours18@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 Nicolasbo143/Nicolasbo143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
